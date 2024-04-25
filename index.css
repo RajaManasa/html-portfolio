@@ -1,0 +1,49 @@
+body {
+    background-color: #F0DBDB;
+}
+.profile{
+    border-radius: 50%;
+}
+hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1.5px;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.5em;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h4 {
+    display: block;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.ed{
+    margin-block-start: 0em;
+}
+.sk{
+    margin-block-start: 0em;
+}
+.desc{
+    margin-block-start: 2px;
+    margin-block-end: 2px;
+    margin-inline-start: 2px;
+    margin-inline-end: 2px;
+}
+.lang{
+    margin-block-start: 2em;
+}
